@@ -1,0 +1,15 @@
+@language = Taal
+@EN = English
+@FR = Frans
+@DE = Duits
+@ES = Spaans
+@PT = Portugees
+@IT = Italiaans
+@JA = Japans
+@ZH = Chinees
+@KO = Koreaans
+@TR = Turks
+@AR = Arabisch
+@RU = Russisch
+@PL = Pools
+@NL = Nederlands

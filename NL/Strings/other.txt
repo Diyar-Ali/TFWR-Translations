@@ -1,0 +1,6 @@
+@word_number = getal
+@word_direction = richting
+@run_cancelled = Uitvoering Mislukt
+@average_text = {0} Voltooid ({2:F1}%)
+{1}
+@unlocked_in = Ontgrendeld in: [{0}]({1})

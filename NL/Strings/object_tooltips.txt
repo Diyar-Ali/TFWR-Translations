@@ -1,0 +1,24 @@
+@plant_tooltip_template = {0}
+
+Basisgroeitijd tussen {1} en {2} seconden. 
+Kan groeien op {3}. 
+@object_tooltip_template_cost = ### Plantkosten {{{{itemblock cost object {0}}}}} 
+@object_descr_apple = Dinosaurussen zijn er blijkbaar dol op.
+@object_descr_grass = Groeit automatisch op grasland.
+Oogst het om `Items.Hay` te verkrijgen. 
+@object_descr_bush = Een kleine struik die `Items.Wood` laat vallen.
+@object_descr_tree = Bomen laten meer hout vallen dan struiken. Ze groeien langzamer als er andere bomen naast groeien.
+@object_descr_carrot = Wortels!
+@object_descr_pumpkin = Pompoenen groeien samen wanneer ze naast andere volgroeide pompoenen staan.
+Ongeveer 1 op de 5 pompoenen sterft als hij opgroeit. 
+@object_descr_sunflower = Zonnebloemen verzamelen de kracht van de zon.
+Door ze te oogsten, krijg je `Items.Power`. 
+Als je een zonnebloem met het maximale aantal bloemblaadjes oogst, krijg je bonusenergie. 
+@object_descr_cactus = Cactussen zijn er in 10 verschillende maten. Wanneer aangrenzende cactussen die "gesorteerd" zijn worden geoogst, worden deze ook geoogst.
+@object_descr_hedge = Onderdeel van het doolhof.
+@object_descr_treasure = Een schat die goud bevat gelijk aan de zijlengte van het doolhof waarin hij verborgen is.
+Het kan worden geoogst als een plant. 
+@object_descr_dinosaur = Een stukje van de staart van de dinosaurushoed.
+@object_descr_grassland = De standaardgrond. Gras zal er automatisch op groeien.
+@object_descr_soil = Door `till()` aan te roepen verandert de grond in aarde.
+Door `till()` opnieuw aan te roepen, verandert het terug in grasland.

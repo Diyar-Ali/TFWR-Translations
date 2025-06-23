@@ -1,0 +1,15 @@
+@popup_warning_delete_files = Wilt u {0} permanent verwijderen? Dit kan niet ongedaan worden gemaakt.
+@popup_warning_delete_save = Weet u zeker dat u {0} wilt verwijderen?
+@delete = Verwijderen
+@cancel = Annuleren
+@popup_warning_exit_game = Wilt u opslaan voordat u afsluit?
+@popup_warning_load_game = Wilt u opslaan voordat u laadt?
+@save = Opslaan
+@don't save = Niet Opslaan
+@popup_warning_corrupted_save = Er lijkt een probleem te zijn geweest bij het laden van {0}.
+Bekijk de sectie over back-ups voor meer informatie. 
+@popup_warning_failed_read_save = Kan de opslagbestanden van {0} niet lezen.
+Zorg ervoor dat u alle andere programma's sluit die toegang hebben tot de bestanden en probeer het opnieuw. 
+@popup_warning_failed_write_save = Kan niet naar de opslagbestanden van {0} schrijven.
+Zorg ervoor dat u alle andere programma's sluit die toegang hebben tot de bestanden en probeer het opnieuw. 
+@ok = ok

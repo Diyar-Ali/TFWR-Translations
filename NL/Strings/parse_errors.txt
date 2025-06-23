@@ -1,0 +1,36 @@
+@error_missing_default_parameter = Alle standaardargumenten moeten aan het einde van de argumentenlijst staan.
+@error_invalid_name = {0} is geen geldige naam. Namen moeten beginnen met een letter en mogen alleen letters, cijfers en underscores bevatten.
+Het mag ook geen gereserveerd sleutelwoord zijn. 
+@error_reserved_keyword = {0} is een gereserveerd sleutelwoord.
+Je kunt het niet als naam gebruiken. 
+@error_invalid_assign_expr = Kan geen waarde toewijzen aan deze expressie.
+@error_no_statements = Een codeblok moet minstens één statement bevatten.
+Een statement kan een functieaanroep zijn zoals `harvest()` of een variabele toewijzing. 
+Als je niets wilt doen in het codeblok, gebruik dan een `pass` statement. 
+@error_not_enough_indentation = Er is hier niet genoeg inspringing.
+Er moet meer inspringing zijn na een : dan ervoor om het nieuwe codeblok te scheiden. 
+Gebruik de Tab-toets om de code te laten inspringen. 
+@error_too_much_indentation = Er is hier te veel inspringing.
+De inspringing moet hetzelfde zijn voor alle statements binnen een codeblok. 
+@error_not_a_statement = Dit is geen geldig statement.
+@error_not_a_statement2 = Dit is geen geldig statement.
+Bedoelde je {0} te schrijven? 
+@error_invalid_expression = Dit is geen geldige expressie.
+@error_new_line_expected = Hier wordt een nieuwe regel verwacht.
+@error_unexpected_token = Een {0} wordt hier verwacht.
+@error_missing_colon = Er moet een dubbele punt `:` aan het begin van elk codeblok staan.
+@error_unexpected_assign = Je kunt hier geen toewijzing doen. Gebruik `==` om op gelijkheid te controleren.
+@error_invalid_for_syntax = Dit is geen geldige for-lus. Een for-lus ziet er zo uit:
+`for n in range(3):` 
+De `for` wordt altijd gevolgd door de lusvariabele, een `in` en dan een reeks. 
+In dit voorbeeld is `n` de naam van de variabele, maar deze kan worden vervangen door elke andere naam. 
+@error_unknown_method = Deze methode bestaat niet.
+@error_bad_backslash = De backslash kan worden gebruikt om expressies over meerdere regels te verdelen.
+Maar je moet daarna een nieuwe regel toevoegen. 
+@error_mixed_indentation = Tabs en spaties mogen niet worden gemengd.
+@error_expected_close_token = Een komma of sluithaak verwacht.
+@error_wrong_dict_literal = Een : verwacht om de sleutels en de waarden van een dictionary te scheiden.
+@error_assign_before_global = {0} is toegewezen vóór een global-declaratie.
+@error_wildcard_imports_not_allowed_in_function = Imports van de vorm `from x import *` zijn niet toegestaan binnen functies.
+@error_invalid_import = Je kunt geen bestanden importeren met namen die geen geldige identifiers zijn.
+Geldige identifiers mogen alleen letters, cijfers en underscores bevatten. Als je bestandsnaam andere tekens bevat, moet je deze hernoemen.

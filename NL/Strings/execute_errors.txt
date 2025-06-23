@@ -1,0 +1,80 @@
+@error_code_after_block = Hier zou geen code moeten staan. Probeer het te verwijderen of op een nieuwe regel te plaatsen.
+@error_wrong_number_args = {0} heeft {1} argumenten nodig.
+@error_expected_no_args = {0} accepteert geen argumenten.
+@error_wrong_args = Het {0}.
+argument van {1} was {2}. Dit is geen geldig argument.
+@error_syntax_error_in_import = De geïmporteerde module heeft een syntaxisfout.
+@error_module_not_found = Een module met deze naam bestaat niet. De naam moet overeenkomen met een bestandsnaam.
+Dit is de naam die bovenaan het venster wordt weergegeven.
+@error_list_element_not_found = {0} is geen element in de lijst.
+@error_set_element_not_found = {0} is geen element van de set.
+@error_index_out_of_bounds = De index {0} was buiten de grenzen van de lijst {1}.
+@error_index_out_of_bounds2 = De index was buiten de grenzen van de lijst.
+@error_arith_assign_not_used_on_number = {0} kan alleen op getallen worden gebruikt.
+@error_bool_op_not_used_on_bool = Een logische operator kan alleen worden gebruikt op booleaanse expressies die evalueren naar `True` of `False`.
+@error_bad_bin_operator = De operator {0} kan niet worden gebruikt op de operanden {1} en {2}.
+@error_bad_unary_operator = De operator {0} kan niet worden gebruikt op {1}.
+@error_index = {0} kan niet worden gebruikt als een index op {1}.
+@error_index_on_non_indexable = Je kunt geen index gebruiken op {0}.
+@error_zero_step = De stapgrootte kan niet nul zijn.
+@error_index_on_tuple = Je kunt geen tuple-element toewijzen omdat tuples onveranderlijk zijn.
+@error_bad_key = {0} kan niet als sleutel worden gebruikt.
+@error_slice_dict = Kan geen slice maken van dictionaries.
+@error_key = {0} is geen sleutel in de dictionary.
+@error_condition_not_bool = {0} is geen geldige voorwaarde.
+De voorwaarde moet een booleaanse waarde zijn. Dit betekent dat het een expressie moet zijn die altijd ofwel `True` of `False` is.
+@error_for_requires_iterable = {0} kan niet worden geïtereerd in een for-lus.
+De for-lus moet een reeks krijgen om over te itereren. Voorbeeld:
+
+`for i in range(5):`
+Hier geeft range(5) de reeks `0,1,2,3,4` terug.
+@error_no_loop_to_break = `break` kan alleen binnen een lus worden gebruikt.
+@error_no_loop_to_continue = `continue` kan alleen binnen een lus worden gebruikt.
+@error_no_function_to_return_from = `return` kan alleen binnen een functie worden gebruikt.
+@error_missing_unlock = Dit moet worden ontgrendeld voordat het kan worden gebruikt.
+@error_missing_x_unlock = {0} moet worden ontgrendeld voordat dit kan worden gebruikt.
+@error_name_not_defined = {0} is nooit gedefinieerd.
+Je moet een waarde aan een variabele toewijzen voordat je deze gebruikt.
+@error_missing_import = {0} is nooit gedefinieerd.
+Het lijkt te zijn gedefinieerd in het bestand {1}. Ben je vergeten dat te importeren?
+Als je het hebt geïmporteerd, heb je waarschijnlijk een import-cyclus (zie de import-documentatiepagina).
+@error_call_before_def = {0} is niet gedefinieerd. Het lijkt ergens in dit bestand te zijn gedefinieerd, maar de definitie is nog niet uitgevoerd.
+Functies kunnen alleen worden aangeroepen na de `def`-statement.
+@error_not_a_function = Je probeerde iets aan te roepen dat geen functie is.
+Een veelvoorkomende fout die dit kan veroorzaken, is het hebben van een variabele met dezelfde naam als de functie.
+@error_invalid_const = {0} bestaat niet.
+@error_invalid_const2 = Dit bestaat niet.
+@error_max_stack_size_reached = De maximale call stack-grootte is bereikt.
+Dit is hoogstwaarschijnlijk te wijten aan te veel recursieve functieaanroepen.
+@error_max_comparison_depth = De maximale vergelijkingsdiepte is bereikt.
+De maximale vergelijkingsdiepte is bereikt. Dit kan bijvoorbeeld gebeuren als je lijsten vergelijkt die zichzelf bevatten.
+@error_assign_type_mismatch = De linkerkant van de toewijzing kwam niet overeen met de rechterkant.
+@error_too_many_values_to_unpack = De rechterkant bevat niet genoeg waarden om uit te pakken.
+@error_not_enough_values = De rechterkant bevat te veel waarden om te worden uitgepakt in de linkerkant.
+@error_empty_print = `print()` vereist minstens één argument.
+@error_in_string = Kan niet controleren of {0} in een string voorkomt.
+@error_collection_changed_size_during_iteration = De grootte van deze collectie kan niet worden gewijzigd binnen een for-lus die erover itereert.
+Dit komt omdat het wijzigen van de grootte van de collectie het iterator-object dat de for-lus gebruikt, ongeldig zou maken.
+@error_wrong_use_of_max = Kan het maximum van {0} niet berekenen.
+@error_wrong_use_of_min = Kan het minimum van {0} niet berekenen.
+@error_function_as_condition = Probeert te controleren of de functie {0} `True` is.
+Dit is het functieobject zelf, niet de returnwaarde van de functie.
+Bedoelde je de functie aan te roepen met de aanroepoperator `()`?
+In Python zijn functieobjecten 'truthy', wat betekent dat als je ze als voorwaarden gebruikt, ze werken als `True`, dus Python zou je deze foutmelding niet geven.
+Dit is een veiligheidsfoutmelding, je kunt deze uitschakelen in de opties als het in de weg zit.
+@error_function_in_operator = Probeert {1} te gebruiken op de functie {0}.
+Dit is het functieobject zelf, niet de returnwaarde van de functie.
+Bedoelde je de functie aan te roepen met de aanroepoperator `()`?
+Dit is een veiligheidsfoutmelding, je kunt deze uitschakelen in de opties als het in de weg zit.
+@error_zero_step_size = De stapgrootte kan niet 0 zijn.
+@error_sequence_too_large = De reeks was te groot om te kopiëren.
+@error_invalid_sim_unlocks = De startontgrendelingen waren ongeldig. Het moet een reeks ontgrendelingen zijn of tuples van de vorm `(Unlock.Carrots, 3)`.
+@error_invalid_sim_items = De startitems waren ongeldig. Het moet een dict zijn die items aan getallen koppelt, zoals `{Items.Hay : 100}`.
+@error_invalid_sim_globals = De startglobals waren ongeldig. Het moet een dict zijn die variabelenamen aan waarden koppelt, zoals `{"x" : 42}`.
+@error_division_by_zero = Oh Nee! Je hebt door `0` gedeeld. Je hebt het maar net overleefd.
+@error_negative_use_item = De hoeveelheid voor 'use item' moet minstens `1` zijn. Het was {0}.
+@error_use_before_assign = Probeerde de variabele {0} te lezen voordat er een waarde aan was toegewezen.
+Als je een globale variabele wilt wijzigen, moet je het 'global'-sleutelwoord gebruiken om naar de globale scope te schrijven.
+`global x
+x += 1`
+@error_attribute_on_non_module = Je kunt geen attribuut toewijzen aan {0}.

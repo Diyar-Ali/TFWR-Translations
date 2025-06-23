@@ -1,0 +1,15 @@
+@item_tooltip_template_amount = Je hebt er {0}
+@item_descr_carrot = Verkregen door het oogsten van wortels.
+@item_descr_fertilizer = Roep `use_item(Items.Fertilizer)` aan om direct 2s van de resterende groeitijd van de plant af te halen.
+@item_descr_weird_substance = Roep `use_item(Items.Weird_Substance)` aan op een struik om een doolhof te laten groeien. Verkregen uit geïnfecteerde planten. Het bemesten van planten infecteert ze.
+@item_descr_gold = Gevonden in schatkisten in doolhoven.
+@item_descr_hay = Verkregen door gras te maaien.
+@item_descr_piggy = Dit item is uit het spel verwijderd.
+@item_descr_power = Verkregen door het oogsten van zonnebloemen.
+De drone gebruikt dit automatisch om twee keer zo snel te bewegen.
+@item_descr_pumpkin = Verkregen door het oogsten van pompoenen.
+@item_descr_water = Wordt gebruikt om de grond water te geven door `use_item(Items.Water)` aan te roepen.
+@item_descr_wood = Verkregen uit struiken en bomen.
+@item_descr_cactus = Verkregen door het oogsten van gesorteerde cactussen.
+@item_descr_cactus_seed = Dit item is uit het spel verwijderd.
+@item_descr_bone = De botten van een oud wezen.

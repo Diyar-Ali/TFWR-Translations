@@ -1,0 +1,17 @@
+@save = Opslaan
+@saved = Opgeslagen
+@play = Start
+@load = Laden
+@options = Opties
+@join_discord = Discord
+@quit = Afsluiten
+@open_folder = Map Openen
+@new_game = Nieuw Spel
+@back = Terug
+@unlocks = Ontgrendelingen
+@farm = Boerderij
+@unlocked = Ontgrendeld
+@upgrade = Upgrade
+@max_level = Max Level
+@unlock = Ontgrendel
+@locked = Vergrendeld

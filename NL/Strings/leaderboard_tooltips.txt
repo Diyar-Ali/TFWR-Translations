@@ -1,0 +1,10 @@
+@lb_descr_fastest_reset = Automatiseer het hele spel volledig.
+@lb_descr_maze = Verzamel 300000 goud.
+@lb_descr_dinosaur = Verzamel 98010 botten.
+@lb_descr_cactus = Verzamel 100000 cactussen.
+@lb_descr_sunflowers = Verzamel 100000 energie.
+@lb_descr_pumpkins = Verzamel 100000 pompoenen.
+@lb_descr_hay = Verzamel 100000 hooi.
+@lb_descr_wood = Verzamel 100000 hout.
+@lb_descr_carrots = Verzamel 100000 wortels.
+@lb_descr_polyculture = Verzamel 100000 hooi, hout en wortels.

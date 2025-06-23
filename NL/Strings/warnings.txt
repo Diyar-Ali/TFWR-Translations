@@ -1,0 +1,14 @@
+@warning_not_enough_items_to_trade = Geprobeerd {0} te kopen, maar had niet de benodigde middelen.
+@warning_no_space_to_plant = Geprobeerd {0} te planten, maar er was al iets op die plek.
+@warning_cant_plant_on_ground = Kan {0} niet planten op {1}.
+@warning_missing_seed = Had niet de benodigde items om {0} te planten.
+@warning_no_item_to_use = Geprobeerd {0} te gebruiken, maar had er niet genoeg van.
+@warning_failed_swap_wrap = Geprobeerd een wissel over de grenzen van de boerderij uit te voeren. Dat is niet toegestaan.
+@warning_failed_swap_unswappable = Geprobeerd {0} te wisselen, wat niet gewisseld kan worden.
+@warning_weird_substance_not_divisible = Je hebt een hoeveelheid Weird Substance gebruikt die niet precies het aantal is dat nodig is om het doolhof te creëren.
+Vergeet niet dat de benodigde hoeveelheid Weird Substance toeneemt naarmate je het doolhof upgradet. 
+Om een doolhof op volledige grootte te spawnen, doe je: 
+`plant(Entities.Bush)
+substance = get_world_size() * num_unlocked(Unlocks.Mazes)
+use_item(Items.Weird_Substance, substance)` 
+@warning_recursive_simulation = Simulaties en leaderboard-runs kunnen niet worden gestart vanuit andere simulaties en leaderboard-runs.

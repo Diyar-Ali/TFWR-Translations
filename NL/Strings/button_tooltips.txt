@@ -1,0 +1,55 @@
+@button_tooltip_load = Laad of creëer een ander opslagbestand.
+@button_tooltip_save = Slaat het spel op.
+@button_tooltip_options = Opent het optiemenu.
+@button_tooltip_discord = Word lid van de Discord om te chatten met andere spelers en de ontwikkelaar, bugs te rapporteren of hulp te krijgen.
+@button_tooltip_execute = Start of stopt de uitvoering van de code in dit venster.
+@button_tooltip_step_by_step = Voert één stap van de code uit.
+@button_tooltip_new_function = Creëer een nieuw codebestand.
+@button_tooltip_new_info_window = Open een nieuw informatievenster.
+@button_tooltip_minimize = Minimaliseert dit venster.
+@button_tooltip_delete = Verwijder dit bestand permanent.
+@button_tooltip_close_docs = Sluit dit venster.
+@button_tooltip_table_of_contents = Inhoudsopgave
+@button_tooltip_new_game = Creëer een nieuw opslagbestand.
+@button_tooltip_open_folder = Open de opslagmap in de bestandsverkenner.
+@button_tooltip_toggle_search_docs = Schakelt om of de zoekopdracht ook infovensters moet doorzoeken.
+@button_tooltip_toggle_search_code = Schakelt om of de zoekopdracht ook codevensters moet doorzoeken.
+@button_tooltip_next_search = Ga naar de volgende overeenkomst van de zoekterm.
+@button_tooltip_previous_search = Ga naar de vorige overeenkomst van de zoekterm.
+@button_tooltip_close_search = Sluit het zoekmenu.
+@warning_icon_tooltip = Je code heeft een waarschuwing veroorzaakt. Klik op het icoon om details te bekijken in het Uitvoervenster.
+@option_tooltip_graphics = Beïnvloedt diverse render pipeline-instellingen zoals schaduwen, ambient occlusion en bloom.
+@option_tooltip_vfx_limit = Beperkt het aantal visuele effecten dat per seconde kan worden afgespeeld.
+@option_tooltip_volume = Pas het volume van alle geluidseffecten aan.
+@option_tooltip_volume_damping = Het volume wordt vermenigvuldigd met deze factor voor elk geluidseffect dat tegelijkertijd wordt afgespeeld, zodat je oren niet ontploffen bij hoge dronesnelheden.
+@option_tooltip_sfx_limit = Beperkt het aantal geluiden dat per seconde kan worden afgespeeld.
+@option_tooltip_autosave = Slaat het spel automatisch elke 30s op wanneer ingeschakeld. Kan niet worden ingeschakeld terwijl de bestandsbewaker is ingeschakeld.
+@option_tooltip_file_watcher = Past automatisch wijzigingen toe die zijn gemaakt in de codebestanden in de opslagmap, waardoor het gebruik van een externe code-editor mogelijk is.
+Kan niet worden ingeschakeld terwijl automatisch opslaan is ingeschakeld.
+@option_tooltip_frames = Beperk de fps van het spel.
+Vsync synchroniseert de fps met de verversingssnelheid van je monitor.
+@option_tooltip_viewport_sliding = Schakelt het glijden van de viewport uit wanneer je sleept en loslaat.
+@option_tooltip_UI_size = Verander de grootte van UI-elementen.
+@option_tooltip_tabs_to_spaces = Verandert alle tabs in 4 spaties.
+@option_tooltip_error_forgot_call = Wanneer ingeschakeld, geeft het spel een veiligheidsfout als je de 'truthiness' van een functieobject probeert te evalueren, omdat dit meestal betekent dat je de `()` vergeten bent.
+@option_tooltip_error_shadow = Wanneer ingeschakeld, geeft het spel een veiligheidsfout als er een lokale variabele is met dezelfde naam als een globale variabele.
+@option_tooltip_print_warnings = Activeert waarschuwingen en het waarschuwingsicoon dat soms verschijnt.
+@option_tooltip_language = Verander de taal van het spel.
+@keybind_tooltip_indent_selection = Voeg inspringing toe aan alle geselecteerde regels. Dit moet een toets zijn die een teken invoegt om te werken.
+Combinaties met ctrl of alt werken dus niet.
+@keybind_tooltip_unindent_selection = Verwijder inspringing van alle geselecteerde regels.
+Dit moet een toets zijn die een teken invoegt om te werken.
+Combinaties met ctrl of alt werken dus niet.
+@keybind_tooltip_menu = Open of sluit het hoofdmenu.
+@keybind_tooltip_move_down = Beweeg de camera omlaag.
+@keybind_tooltip_move_left = Beweeg de camera naar links.
+@keybind_tooltip_move_right = Beweeg de camera naar rechts.
+@keybind_tooltip_move_up = Beweeg de camera omhoog.
+@keybind_tooltip_redo = Herhaal de laatste ongedaan gemaakte actie.
+@keybind_tooltip_save = Sla het spel op.
+@keybind_tooltip_undo = Maak de laatste wijziging ongedaan.
+@keybind_tooltip_search = Zoek naar een zoekterm in alle vensters.
+@keybind_tooltip_start_execution = Start de uitvoering van het meest recent actieve bestand of hervat het als het gepauzeerd is.
+@keybind_tooltip_stop_execution = Stopt de uitvoering.
+@keybind_tooltip_next_step = Voer één stap uit als de uitvoering gepauzeerd is.
+@keybind_tooltip_pause_execution = Pauzeer de uitvoering.

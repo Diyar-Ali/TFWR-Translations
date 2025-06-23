@@ -1,0 +1,17 @@
+@steam_description = Programmeer een drone met een eenvoudige python-achtige taal om verschillende landbouwtaken volledig te automatiseren die anders erg eentonig zouden zijn.
+Voel de voldoening van het simpelweg drukken op "uitvoeren" en kijk hoe uw drone al het harde werk doet. 
+[img]{STEAM_APP_IMAGE}/extras/Harvesting2.gif[/img]
+
+Landbouw levert u middelen op die kunnen worden besteed om nieuwe technologie te ontgrendelen. 
+Hier is hoe hetzelfde programma eruitziet na een paar snelheidsupgrades: 
+[img]{STEAM_APP_IMAGE}/extras/HarvestingFast2.gif[/img]
+
+In tegenstelling tot de meeste programmeerspellen is het spel niet verdeeld in afzonderlijke levels die u moet voltooien, maar het beschikt over een continue voortgang. 
+Het programmeren gebeurt in een eenvoudige taal die vergelijkbaar is met Python. 
+Het begin van het spel is ontworpen om u alle basis programmeerconcepten te leren die u nodig zult hebben door ze één voor één te introduceren. 
+Hoewel het alles introduceert wat relevant is, zal het u niet bij de hand nemen als het gaat om het oplossen van de verschillende taken in het spel. 
+Die zult u zelf moeten uitzoeken, en dat kan erg uitdagend zijn als u nog nooit eerder heeft geprogrammeerd. 
+Als u een ervaren programmeur bent, zou u zeer snel door het vroege spel moeten kunnen komen en doorgaan naar de complexere taken van het latere spel, die nog steeds interessante uitdagingen zouden moeten bieden. 
+@steam_short_description = Programmeer en optimaliseer een drone om een boerderij te automatiseren en kijk hoe hij het werk voor u doet.
+Verzamel middelen om betere technologie te ontgrendelen en de meest efficiënte boer ter wereld te worden. 
+Verbeter uw probleemoplossende en codeervaardigheden.
